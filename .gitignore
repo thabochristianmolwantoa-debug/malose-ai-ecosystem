@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+.paystack_keys
+billing/logs/
