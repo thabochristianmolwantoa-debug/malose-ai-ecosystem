@@ -1,5 +1,18 @@
-.env
-venv/
+# Python & FastAPI
 __pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js & Next.js
+node_modules/
+.next/
+out/
+
+# South African Financials
 .paystack_keys
 billing/logs/
+
+# AI Media Assets
+ai_engine/temp_audio/
+ai_engine/temp_video/
